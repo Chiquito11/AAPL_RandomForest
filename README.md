@@ -1,5 +1,3 @@
-#APPL_RandomForest
-
 This project implements a Quantitative Trading approach to forecast Apple's (AAPL) daily returns using Machine Learning. It focuses on price action features and robust model evaluation to avoid overfitting.
 
 The goal is to predict the next-day price direction (return) using a Random Forest Regressor. The model helps identify potential entry/exit points by filtering market noise through volatility and trend indicators.
