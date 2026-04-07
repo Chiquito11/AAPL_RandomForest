@@ -31,3 +31,5 @@ Information Coefficient (IC): The model consistently achieves an IC between 0.05
 Overfitting Prevention: Optimized using GridSearchCV with parameters max_depth=10 and min_samples_leaf=10 to ensure the model generalizes well to new data.
 
 Backtesting: The strategy focuses on capital preservation, often moving to "cash" (flat line) during high-drawdown periods for the benchmark.
+
+Legal Warning: This project is only for educational purposes not for financial advice
